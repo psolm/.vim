@@ -1,5 +1,5 @@
 # .vim
-to apply change 
+to apply change then 
 cd ~
-git clone 
+git clone then
 cp .vimrc ~
